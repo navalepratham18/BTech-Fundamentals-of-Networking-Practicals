@@ -13,3 +13,8 @@
 
 ### 4. Ring Topology 
 <img width="489" height="569" alt="image" src="https://github.com/user-attachments/assets/73059c21-c913-4397-8184-4839ed41baed" /><br>
+
+## Practical 02 : <br>
+
+### Capturing Data Packets Using WireShark
+<img width="1590" height="823" alt="image" src="https://github.com/user-attachments/assets/2c167005-2455-4b97-945d-1a68df2b9987" />
