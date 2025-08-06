@@ -18,3 +18,9 @@
 
 ### Capturing Data Packets Using WireShark
 <img width="1590" height="823" alt="image" src="https://github.com/user-attachments/assets/2c167005-2455-4b97-945d-1a68df2b9987" />
+
+## Practical 03 : <br>
+
+### IPv4 Subnetting 
+<img width="454" height="502" alt="image" src="https://github.com/user-attachments/assets/af31657e-b4a8-4b4d-92a9-e67c6c9e4fa9" />
+
